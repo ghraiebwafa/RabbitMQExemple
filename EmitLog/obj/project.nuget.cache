@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "ZYX8GPV5lX5jCdRaVN3HNk9BXyOTIvZopEGcVdUF99edMhHpum6pHXSJ2ZOrm05AcVuWbBwP9tDtKjIKakHCHg==",
+  "success": true,
+  "projectFilePath": "/home/wafa/dotnet-course-code/RabbitMq/EmitLog/EmitLog.csproj",
+  "expectedPackageFiles": [
+    "/home/wafa/.nuget/packages/rabbitmq.client/7.0.0/rabbitmq.client.7.0.0.nupkg.sha512",
+    "/home/wafa/.nuget/packages/system.io.pipelines/8.0.0/system.io.pipelines.8.0.0.nupkg.sha512",
+    "/home/wafa/.nuget/packages/system.threading.ratelimiting/8.0.0/system.threading.ratelimiting.8.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
